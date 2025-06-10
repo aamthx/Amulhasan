@@ -22,8 +22,8 @@ I'm passionate about **Web Development** and **Computer Networking**. I enjoy bu
 
 📈 **GitHub Stats**
 
-![Amul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![Amul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aamthx&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamthx&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
